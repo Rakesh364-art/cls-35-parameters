@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+  
+form{
+  width: 700px;
+  background-color: aqua;
+}
+label{
+
+  width: 100px;
+  display: inline-block;
+  margin: 10px;
+}
